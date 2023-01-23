@@ -7,7 +7,7 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 - Présentation du module
 - Leçon courte
 
-## Semaine 2 [détails]()
+## Semaine 2 [détails](Séquences/Semaine2.md)
 
 - Caractéristiques d'une bonne formation
 
