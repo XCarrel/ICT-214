@@ -11,7 +11,7 @@
     - Pas de débat, pas de contestation
     - Ne pas dériver loin du sujet
     - Rebondir sur les idées des autres
-  - Résultat: Mindmap
+  - Résultat: [Mindmap](../Matériel/Un%20bon%20cours.pdf)
 
 - Niveaux taxonomiques
   - Connaître
