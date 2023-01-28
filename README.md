@@ -11,8 +11,9 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 
 - Caractéristiques d'une bonne formation
 
-## Semaine 3 [détails]()
+## Semaine 3 [détails](Séquences/Semaine3.md)
 
+- Organisation de la leçon test
 - Connaître son public 
 
 ## Semaine 4 [détails]()
