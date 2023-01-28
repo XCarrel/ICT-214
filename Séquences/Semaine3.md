@@ -29,7 +29,7 @@
   - Sont-ils/elles plutôt "cerveau gauche" ou "cerveau droite" ? [explications](../Mat%C3%A9riel/D-214-JZN00-Hemispheres.pptx)
 
   - Comment font-ils/elles pour mémoriser ? et vous ?
-    - Vous allez voir une image pendant trois minutes
+    - Vous allez voir une [image](../Mat%C3%A9riel/Cantons.pdf) pendant trois minutes. A vous de pour retenir le maximum d'information possible, par n'importe quel moyen (sauf prendre une photo)
     - Après cela je vous distribue une feuille avec 6 questions. Combien de bonnes réponses avez-vous ?
     - Discussion sur les moyens de mémorisation
 
