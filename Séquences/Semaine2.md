@@ -1,4 +1,4 @@
-## Travail Planifié, 23.1.2023
+## Travail Effectué, 23.1.2023
 
 - Feedback sur les séquences: [document partagé](https://eduvaud.sharepoint.com/:w:/s/ETML_INF-GRP2A-22-23_Teams/EZ_M0ET-YbhKrPWkcC8mA3oBXz8idRrBckB6Ee2BM1M1lA?e=Pba3kI)
 
@@ -22,8 +22,5 @@
 
 - Connaître son public:
   - Envoyer un [email](../Matériel/E-214-EmailPro.pdf)
-  - Bien poser les bonnes questions
-    - Brainstorm
-    - [Questionnaire](../Matériel/E-214-MBO-Questionnaire_v1.pdf)
 
 
