@@ -16,7 +16,7 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 - Organisation de la leçon test
 - Connaître son public 
 
-## Semaine 4 [détails]()
+## Semaine 4 [détails](Séquences/Semaine4.md)
 
 - Styles d'enseignement
 
