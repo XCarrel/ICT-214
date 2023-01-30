@@ -50,13 +50,12 @@
         - QUel est le plus haut niveau d'étude que vous avez fait ?
     - Passage du résultat au crible de ce [document](../Matériel/E-214-MBO-Questionnaire_v1.pdf)
     - Choisir un outil pour faire des sondages parim [ceux-cis](https://www.pme-web.com/top-5-logiciels-gratuits-creer-sondage-en-ligne/) et y reporter les questions reformulées
-      - HubSpot:
-      - Eval&Go:
-      - TypeForm:
-      - Google Forms:
-      - SurveyMonkey:
-      - GetFeedback:
-      - EngageForm
+      - HubSpot : Morgan
+      - TypeForm : Ahmad + Samuel
+      - Google Forms : Paul + Théo
+      - SurveyMonkey : Guoxu + Natasha
+      - Survio : Alessio + Dylan
+      - Microdoft Forms : Azur + Adam
     - Soumettre votre questionnaire à l'ensemble de la classe et XCL.
 
 
