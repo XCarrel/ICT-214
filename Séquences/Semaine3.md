@@ -35,6 +35,19 @@
 
   - Bien poser les bonnes questions
     - Brainstorm: pour savoir ce que vos élèves connaissent déjà de Youtube, quelles questions allez-vous leur poser ?
+        - Est-ce que vous utilisez beaucoup le smartphone ? un ordinateur ?
+        - Avez-vous déjà utilisé Youtube ?
+        - A quelle fréquence l'utilisez-vous ?
+        - Regardez-vous beaucoup de vidéos ?
+        - Regardez-vous la Télévision ? Quel type de contenus ?
+        - Avez-vous déjà publié une vidéo Youtube ?
+        - Quel âge avez-vous ?
+        - Avez-vous un smartphone ? un ordinateur ?
+        - Utilisez-vous internet ?
+        - Selon vous qu'est-ce qu'un réseau social ?
+        - Quel métier exerciez-vous ?
+        - Quels sont vos loisirs ?
+        - QUel est le plus haut niveau d'étude que vous avez fait ?
     - Passage du résultat au crible de ce [document](../Matériel/E-214-MBO-Questionnaire_v1.pdf)
 
 _(Séquence courte (3p.) en raison de la séance de filière à Vennes)_
