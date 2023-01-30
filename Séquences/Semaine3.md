@@ -10,20 +10,20 @@
         - 15h00 - 15h20: Pause
         - Deuxième tour: 15h20 - 16h50 (5 x 15min + 15min de pause au milieu), avec ~10 autres personnes. On redonne le même cours, mais chaque groupe change de sujet.
         - 17h00 - 17h25: Debrief, entre nous
-    - Thème: les réseaux sociaux
-    - Objectif pédagogique: (tbd)
+    - Thème: Youtube
+    - Objectif pédagogique: Niveau 'Comprendre' pour le 1, 'Appliquer' pour le reste
     - Sujets :
-        1. (tbd)
-        2. (tbd)
-        3. (tbd)
-        4. (tbd)
-        5. (tbd)
+        1. Bases de youtube: Introduction, Règles de comportement, abonnements
+        2. Mettre des sous-titres, vitesse de lecture, qualité
+        3. Rechercher une vidéo, une chaîne
+        4. Créer une playlist
+        5. Commenter, partager
     - Groupes :
-        1. (tbd)
-        2. (tbd)
-        3. (tbd)
-        4. (tbd)
-        5. (tbd)
+        1. Alessio-Dylan - 1+3
+        2. Samuel-Adam-Ahmad - 4+2
+        3. Guoxu-Morgan - 3+1
+        4. Théo-Lucas - 5+4
+        5. Azur-Natasha - 2+5
 
 - Connaître son public
   - Sont-ils/elles plutôt "cerveau gauche" ou "cerveau droite" ? [explications](../Mat%C3%A9riel/D-214-JZN00-Hemispheres.pptx)
