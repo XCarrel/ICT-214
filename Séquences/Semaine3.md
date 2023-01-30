@@ -34,7 +34,7 @@
     - Discussion sur les moyens de mémorisation
 
   - Bien poser les bonnes questions
-    - Brainstorm: pour savoir ce que vos élèves connaissent déjà des réseaux sociaux, quelles questions allez-vous leur poser ?
+    - Brainstorm: pour savoir ce que vos élèves connaissent déjà de Youtube, quelles questions allez-vous leur poser ?
     - Passage du résultat au crible de ce [document](../Matériel/E-214-MBO-Questionnaire_v1.pdf)
 
 _(Séquence courte (3p.) en raison de la séance de filière à Vennes)_
