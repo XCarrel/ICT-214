@@ -19,6 +19,7 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 ## Semaine 4 [détails](Séquences/Semaine4.md)
 
 - Styles d'enseignement
+- Styles d'apprentissage
 
 ## Semaine 5 [détails]()
 
