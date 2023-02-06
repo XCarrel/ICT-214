@@ -1,8 +1,8 @@
-## Travail planifié, 6.2.2023
+## Travail effectué, 6.2.2023
 
 - Finaliser les questionnaires
 - Faire remplir votre questionnaire par deux personnes
-- Debrief
+- Debrief: nous choisissons Office.forms pour formuler notre questionnaire
 - Style d'apprentissage
   - Test [Kolb](../Matériel/S-214-StyleApprentissageSeloKolb.pdf)
 - Style d'enseignement
@@ -10,3 +10,5 @@
   - Théorie des styles: remplir [ce document](../Matériel/S-214-3StylesEnseignement-TableauComparatif.docx)
   - Debrief
 - Planification de votre séquence au moyen de [ce canevas](../Matériel/XCL-TemplateCours.xlsx)
+- Consigne donnée:
+  - Lundi 20.2, chaque groupe doit avoir déposé le canevas de sa première leçon dans le canal Teams
