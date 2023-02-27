@@ -28,12 +28,12 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 
 ## Semaine 6 [détails]()
 
-- Test 1
 - Choix de sujet
-- Tuto vidéo
+- Préparation du cours
 
 ## Semaine 7 [détails]()
 
+- Test 1
 - Préparation de cours
 
 ## Semaine 8 [détails]()
