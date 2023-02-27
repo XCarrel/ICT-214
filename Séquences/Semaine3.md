@@ -14,16 +14,16 @@
     - Objectif pédagogique: Niveau 'Comprendre' pour le 1, 'Appliquer' pour le reste
     - Sujets :
         1. Bases de youtube: Introduction, Règles de comportement, abonnements
-        2. Mettre des sous-titres, vitesse de lecture, qualité
-        3. Rechercher une vidéo, une chaîne
-        4. Créer une playlist
-        5. Commenter, partager
+        2. Rechercher une vidéo, une chaîne
+        3. Mettre des sous-titres, vitesse de lecture, qualité
+        4. Commenter, partager
+        5. Créer une playlist
     - Groupes :
-        1. Alessio-Dylan - 1+3
-        2. Samuel-Adam-Ahmad - 4+2
-        3. Guoxu-Morgan - 3+1
-        4. Théo-Lucas - 5+4
-        5. Azur-Natasha - 2+5
+        1. Alessio-Dylan
+        2. Guoxu-Morgan
+        3. Azur-Natasha
+        4. Théo-Lucas
+        5. Samuel-Adam-Ahmad
 
 - Connaître son public
   - Sont-ils/elles plutôt "cerveau gauche" ou "cerveau droite" ? [explications](../Mat%C3%A9riel/D-214-JZN00-Hemispheres.pptx)
