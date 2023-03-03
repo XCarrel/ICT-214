@@ -21,21 +21,21 @@ Instruire les utilisateurs sur le comportement avec des moyens informatiques
 - Styles d'enseignement
 - Styles d'apprentissage
 
-## Semaine 5 [détails]()
+## Semaine 5 [détails](Séquences/Semaine5.md)
 
 - Se documenter
 - Evaluation
 
-## Semaine 6 [détails]()
+## Semaine 6 [détails](Séquences/Semaine6.md)
 
 - Choix de sujet
 - Préparation du cours
 
-## Semaine 7 [détails]()
+## Semaine 7 [détails](Séquences/Semaine7.md)
 
 - Test 1
 - Préparation de cours
 
-## Semaine 8 [détails]()
+## Semaine 8 [détails](Séquences/Semaine8.md)
 
 - Cours
