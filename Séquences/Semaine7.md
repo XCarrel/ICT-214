@@ -13,9 +13,11 @@
   - clarté des explications 
   - verification des acquis
   - qualité des contenus
-  - qualité dus support
+  - qualité des supports
 
 - Revue des canevas
-- Revue des critères d'évaluation de votre prestation
+  - Faire des présentations de manière homogène
+  - Revenir sur le plan général
+  - Scriptez vos interventions orales si vous n'êtes pas très à l'aise quand il s'agit de parler en public
 
 - 16h40: Test
