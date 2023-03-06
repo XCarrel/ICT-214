@@ -16,8 +16,9 @@
   - qualité des supports
 
 - Revue des canevas
-  - Faire des présentations de manière homogène
-  - Revenir sur le plan général
+  - Faire des présentations de manière homogène (Revenir sur le "fond d'écran du cours")
   - Scriptez vos interventions orales si vous n'êtes pas très à l'aise quand il s'agit de parler en public
+  - Soyez prêt.e.s à meubler
+  - Soyez prêt.e.s à cadrer
 
 - 16h40: Test
