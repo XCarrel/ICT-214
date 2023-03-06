@@ -8,6 +8,13 @@
     - Email de convocation aux cours (tbd)
     - Envoi de l'email de convocation
 
+- Critères (individuels) d'évaluation de votre cours:
+  - vivacité 
+  - clarté des explications 
+  - verification des acquis
+  - qualité des contenus
+  - qualité dus support
+
 - Revue des canevas
 - Revue des critères d'évaluation de votre prestation
 
