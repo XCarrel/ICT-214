@@ -8,7 +8,7 @@
   - 14h40 Pause
   - 15h00 Mettre des sous-titres, vitesse de lecture, qualité (Azur, Natasha)
   - 15h30 Commenter, partager (Luca)
-  - 16h00 Créer une playlist
+  - 16h00 Créer une playlist (Samuel, Adam, Ahmad)
   - 16h30: Prise de congé
   - 16h45: Debrief, entre nous
 
